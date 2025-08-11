@@ -1,5 +1,6 @@
 # vm_task1_12-questions
 Practice Questions
+Language used c++
 
 1. Print "Namah Shivaya!"
 2. Take two numbers as input and print their sum.
