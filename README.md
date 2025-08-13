@@ -32,3 +32,8 @@ Language used c++
 28. Determine the grade of a student based on their marks.
 29. Check if a character is an alphabet or not.
 30. Check if a character is a digit or not.
+31. Find the day of the week based on a number (1–7).
+32. Calculate the electricity bill based on slab rates.
+33. Check if a number is a palindrome.
+34. Check if a number is a perfect number (sum of divisors equals the number).
+35. Check if a triangle is valid (given three angles).
