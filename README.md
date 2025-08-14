@@ -1,4 +1,4 @@
-# vm_task1_30-questions
+# vm_task1_38-questions
 Practice Questions
 Language used c++
 
@@ -37,3 +37,6 @@ Language used c++
 33. Check if a number is a palindrome.
 34. Check if a number is a perfect number (sum of divisors equals the number).
 35. Check if a triangle is valid (given three angles).
+36. Find the roots of a quadratic equation.
+37. Determine whether a triangle is equilateral, isosceles, or scalene.
+38. Print the multiplication table of a number.
