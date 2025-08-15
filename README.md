@@ -1,4 +1,4 @@
-# vm_task1_38-questions
+# vm_task1_45-questions
 Practice Questions
 Language used c++
 
@@ -40,3 +40,10 @@ Language used c++
 36. Find the roots of a quadratic equation.
 37. Determine whether a triangle is equilateral, isosceles, or scalene.
 38. Print the multiplication table of a number.
+39. Print numbers from 1 to n
+40. Print numbers from n to 1
+41. Calculate the factorial of a number
+42. Check if a number is prime
+43. Print all prime numbers up to n
+44. Find the Fibonacci series up to n terms
+45. Find the sum of digits of a number
