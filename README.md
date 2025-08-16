@@ -1,4 +1,4 @@
-# vm_task1_45-questions
+# vm_task1_47-questions
 Practice Questions
 Language used c++
 
@@ -47,3 +47,6 @@ Language used c++
 43. Print all prime numbers up to n
 44. Find the Fibonacci series up to n terms
 45. Find the sum of digits of a number
+46. Reverse a number
+47. check if a number is armstrong number
+    
