@@ -49,4 +49,7 @@ Language used c++
 45. Find the sum of digits of a number
 46. Reverse a number
 47. check if a number is armstrong number
+48. Find the greatest common divisor (GCD) of two numbers.
+49. Find the least common multiple (LCM) of two numbers.
+50. Calculate the power of a number using recursion.
     
