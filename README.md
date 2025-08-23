@@ -52,4 +52,9 @@ Language used c++
 48. Find the greatest common divisor (GCD) of two numbers.
 49. Find the least common multiple (LCM) of two numbers.
 50. Calculate the power of a number using recursion.
+51. Print a pattern of stars (e.g., right-angled triangle, pyramid).
+52. Print the reverse of a string.
+53. Print the characters of a string in reverse order.
+54. Calculate the sum of all even numbers between 1 and n.
+55. Calculate the sum of all odd numbers between 1 and n.
     
